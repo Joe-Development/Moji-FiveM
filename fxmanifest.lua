@@ -2,7 +2,7 @@ fx_version 'cerulean'
 games { 'gta5' }
 author 'JoeV2'
 description 'A Script to convert prefix in chat to a emoji'
-version '1.0.1'
+version '1.0.2'
 
 
 server_scripts {
