@@ -1,5 +1,5 @@
 local function SanString(message)
-    for emoji, replacement in pairs(Config.emojies) do
+    for emoji, replacement in pairs(Config.emojis) do
         message = message:gsub(emoji, replacement)
     end
     return message
