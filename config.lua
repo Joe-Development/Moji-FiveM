@@ -1,5 +1,7 @@
 Config = {
     emojis = {
+        -- the format is >
+        -- the prefix so ':cat:' then the actual emoji
         [":dog:"] = "🐶",
         [":cat:"] = "🐱",
         [":mouse:"] = "🐭",
